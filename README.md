@@ -14,6 +14,7 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 
 ## Key Questions
 1.Which variables are significant in predicting the demand for shared bikes.
+
 2.How well those variables describe the bike demands
 
 ## Technologies Used
